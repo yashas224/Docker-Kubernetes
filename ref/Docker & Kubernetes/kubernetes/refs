@@ -17,3 +17,6 @@ https://docs.openshift.com/container-platform/3.11/dev_guide/expose_service/expo
 https://serverfault.com/questions/1099733/how-to-access-web-app-running-on-kubernetes-from-host
 https://kubebyexample.com/learning-paths/application-development-kubernetes/lesson-3-networking-kubernetes/exposing
 https://sysdig.com/blog/kubernetes-services-clusterip-nodeport-loadbalancer/
+
+//ports
+https://ashwin.cloud/blog/port-vs-targetport-in-kubernetes-service/#:~:text=In%20Kubernetes%2C%20when%20creating%20a,that%20traffic%20is%20directed%20to.
