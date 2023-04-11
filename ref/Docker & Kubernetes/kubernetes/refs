@@ -9,3 +9,11 @@ https://medium.com/@javatechie/kubernetes-tutorial-run-deploy-spring-boot-applic
 
 // port forwarding
 https://developer.ibm.com/articles/kubernetes-networking-what-you-need-to-know/
+
+
+//services
+https://developer.ibm.com/articles/kubernetes-networking-what-you-need-to-know/
+https://docs.openshift.com/container-platform/3.11/dev_guide/expose_service/expose_internal_ip_nodeport.html
+https://serverfault.com/questions/1099733/how-to-access-web-app-running-on-kubernetes-from-host
+https://kubebyexample.com/learning-paths/application-development-kubernetes/lesson-3-networking-kubernetes/exposing
+https://sysdig.com/blog/kubernetes-services-clusterip-nodeport-loadbalancer/
