@@ -2,3 +2,6 @@ resources in a namaspace : https://www.studytonight.com/post/how-to-list-all-res
 
 c group and namespace for process isolation
 https://narasimmantech.com/how-namespaces-and-cgroups-can-help-you-isolate-your-processes/#:~:text=Conclusion-,Namespaces%20and%20cgroups%20are%20two%20Linux%20kernel%20features%20that%20allow,can%20also%20be%20used%20independently.
+
+// k8s add ons
+https://kubernetes.io/docs/concepts/cluster-administration/addons/
