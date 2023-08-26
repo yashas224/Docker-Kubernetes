@@ -9,3 +9,7 @@ https://www.howtogeek.com/devops/how-to-connect-to-localhost-within-a-docker-con
 https://www.geeksforgeeks.org/docker-arg-instruction/
 https://docs.docker.com/engine/reference/builder/
 https://codefresh.io/docs/docs/example-catalog/ci-examples/build-an-image-with-build-arguments/#:~:text=Using%20Docker%20build%20arguments,-The%20example%20application&text=This%20Dockerfile%20expects%20two%20build,be%20used%20inside%20the%20container
+
+
+// exposing container ports
+https://www.mend.io/free-developer-tools/blog/docker-expose-port/
