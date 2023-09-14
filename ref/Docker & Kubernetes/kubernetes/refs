@@ -23,3 +23,8 @@ https://kubebyexample.com/learning-paths/application-development-kubernetes/less
 
 // reading kubernetes-secrets 
 https://howchoo.com/kubernetes/read-kubernetes-secrets
+
+// hpa horizontal-pod-autoscale
+https://kubernetes.io/docs/tasks/run-application/horizontal-pod-autoscale/
+// replica in deployment file vs replica is hpa file
+https://technologyconversations.com/2018/10/10/to-replicas-or-not-to-replicas-in-kubernetes-deployments-and-statefulsets/
