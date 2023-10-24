@@ -13,3 +13,5 @@ https://codefresh.io/docs/docs/example-catalog/ci-examples/build-an-image-with-b
 
 // exposing container ports
 https://www.mend.io/free-developer-tools/blog/docker-expose-port/
+//expose and -p in docker 
+https://www.baeldung.com/ops/docker-compose-expose-vs-ports
