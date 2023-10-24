@@ -19,3 +19,12 @@ https://www.baeldung.com/ops/docker-compose-expose-vs-ports
 
 // cli refs
 https://docs.docker.com/engine/reference/commandline/cli/
+
+
+// -it flag
+https://stackoverflow.com/questions/48368411/what-is-docker-run-it-flag
+
+-it is short for --interactive + --tty. When you docker run with this command it takes you straight inside the container.
+-d is short for --detach, which means you just run the container and then detach from it. Essentially, you run container in the background.
+Edit: So if you run the Docker container with -itd, it runs both the -it options and detaches you from the container. As a result, your container will still be running in the background even without any default app to run.
+
