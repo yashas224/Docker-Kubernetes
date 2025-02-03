@@ -28,3 +28,11 @@ https://howchoo.com/kubernetes/read-kubernetes-secrets
 https://kubernetes.io/docs/tasks/run-application/horizontal-pod-autoscale/
 // replica in deployment file vs replica is hpa file
 https://technologyconversations.com/2018/10/10/to-replicas-or-not-to-replicas-in-kubernetes-deployments-and-statefulsets/
+
+
+// mysql
+https://kubernetes.io/docs/tasks/run-application/run-single-instance-stateful-application/
+
+// imagePullPolicy
+https://refine.dev/blog/kubernetes-image-pull-policy/#image-pull-policy-in-kubernetes
+https://kubernetes.io/docs/concepts/containers/images/
