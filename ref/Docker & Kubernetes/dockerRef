@@ -33,5 +33,4 @@ Edit: So if you run the Docker container with -itd, it runs both the -it options
 // spring boot app
 https://spring.io/guides/gs/spring-boot-docker
 
-// mysql
-https://kubernetes.io/docs/tasks/run-application/run-single-instance-stateful-application/
+
