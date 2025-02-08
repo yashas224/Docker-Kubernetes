@@ -34,3 +34,5 @@ Edit: So if you run the Docker container with -itd, it runs both the -it options
 https://spring.io/guides/gs/spring-boot-docker
 
 
+// docker file ref
+https://docs.docker.com/reference/dockerfile/
