@@ -1,7 +1,8 @@
 // Run Locally Built Docker Images in Kubernetes
 https://medium.com/swlh/how-to-run-locally-built-docker-images-in-kubernetes-b28fbc32cc1d
 https://sweetcode.io/how-to-use-local-docker-images-in-kubernetes/
-
+// image-pull-policy
+https://kubernetes.io/docs/concepts/containers/images/#image-pull-policy
 
 // expose-pod-information 
 https://kubernetes.io/docs/tasks/inject-data-application/environment-variable-expose-pod-information/
